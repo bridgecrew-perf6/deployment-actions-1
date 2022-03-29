@@ -12,6 +12,8 @@ inputs:
 outputs:
   result:
     description: result
+  time:
+    description: time
 
 runs:
   using: docker
